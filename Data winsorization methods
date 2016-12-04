@@ -1,0 +1,4 @@
+Z-score (affected by big outlier)
+Mean-absolute-deviation filtering (way more robust than z-scoring)
+Basic scaling / Quantile scaling / Relative ranking (http://stats.lse.ac.uk/fryzlewicz/rre/rre.pdf, page 10)
+(To add...) 
